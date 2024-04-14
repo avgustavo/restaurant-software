@@ -7,9 +7,9 @@ Este documento descreve as funcionalidades do sistema de controle e realização
 # Padrões de Projeto
 ## Padrão Model-View-Controller (MVC)
 O sistema foi desenvolvido seguindo a arquitetura Model-View-Controller (MVC), que separa a lógica de negócio da interface do usuário, facilitando a manutenção e a escalabilidade. As principais componentes são:
-Model: Responsável pelos dados e regras de negócio.
-View: Apresenta os dados e interações à disposição do usuário.
-Controller: Faz a mediação da entrada e saída de dados entre o Model e a View.
+* Model: Responsável pelos dados e regras de negócio.
+* View: Apresenta os dados e interações à disposição do usuário.
+* Controller: Faz a mediação da entrada e saída de dados entre o Model e a View.
 
 ## Padrão Fachada
 Utilizamos o padrão de projeto Fachada para simplificar as interações entre as interfaces gráficas e a lógica de negócio, proporcionando uma camada única de comunicação para as operações mais complexas, o que torna o sistema mais organizado e fácil de utilizar.
