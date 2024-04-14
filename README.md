@@ -1,4 +1,4 @@
-# Sistem de controle de pedidos de um restaurante
+# Sistema de controle de pedidos de um restaurante
 Um projeto da disciplina de Programação Orientada a Objetos.
 
 # Descrição Geral
