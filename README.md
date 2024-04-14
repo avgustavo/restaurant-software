@@ -4,7 +4,7 @@ Um projeto da disciplina de Programação Orientada a Objetos.
 # Descrição Geral
 Este documento descreve as funcionalidades do sistema de controle e realização de pedidos de um restaurante. O sistema permite que pedidos sejam realizados de diferentes maneiras: na mesa, no balcão ou para entrega. Além disso, oferece flexibilidade para editar, remover e encerrar pedidos.
 
-# Arquitetura e Padrões de Projeto
+# Padrões de Projeto
 ## Padrão Model-View-Controller (MVC)
 O sistema foi desenvolvido seguindo a arquitetura Model-View-Controller (MVC), que separa a lógica de negócio da interface do usuário, facilitando a manutenção e a escalabilidade. As principais componentes são:
 Model: Responsável pelos dados e regras de negócio.
