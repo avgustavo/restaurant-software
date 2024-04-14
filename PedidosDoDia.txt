@@ -1,0 +1,20 @@
+*Pedido1*
+Codigo: 14, Nome: coca-cola, Tipo do item: bebidas, Valor: 5.0
+Codigo: 8, Nome: baiao de dois, Tipo do item: pratos, Valor: 20.0
+Codigo: 1, Nome: batata frita, Tipo do item: entradas, Valor: 8.0
+Crédito, 2022-07-14T11:49:20.044028600, 33.0
+*Pedido2*
+Codigo: 18, Nome: caipirinha, Tipo do item: bebidas, Valor: 8.0
+Codigo: 17, Nome: Ypioca ouro (dose), Tipo do item: bebidas, Valor: 3.0
+Codigo: 2, Nome: bolinha de queijo, Tipo do item: entradas, Valor: 8.0
+Débito, 2022-07-14T11:48:26.676391600, 19.0
+*Pedido3*
+Codigo: 1, Nome: batata frita, Tipo do item: entradas, Valor: 8.0
+Codigo: 14, Nome: coca-cola, Tipo do item: bebidas, Valor: 5.0
+Codigo: 13, Nome: petit gateu, Tipo do item: sobremesas, Valor: 8.0
+Dinheiro, 2022-07-14T11:47:21.268215800, 21.0
+*Pedido4*
+Codigo: 4, Nome: isca de carne, Tipo do item: entradas, Valor: 20.0
+Codigo: 6, Nome: Arroz com Frango, Tipo do item: pratos, Valor: 15.0
+PIX, 2022-07-14T11:46:57.432299700, 35.0
+Receita do dia: 108.0

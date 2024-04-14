@@ -1,0 +1,18 @@
+1, batata frita, entradas, 8.0
+2, bolinha de queijo, entradas, 8.0
+3, isca de peixe, entradas, 15.0
+4, isca de carne, entradas, 20.0
+5, filé com fritas, pratos, 50.0
+6, Arroz com Frango, pratos, 15.0
+7, frango à parmegiana, pratos, 40.0
+8, baiao de dois, pratos, 20.0
+9, picole, sobremesas, 5.0
+10, brigadeiro, sobremesas, 1.0
+11, pudim, sobremesas, 10.0
+12, sorvete de chocolate, sobremesas, 6.0
+13, petit gateu, sobremesas, 8.0
+14, coca-cola, bebidas, 5.0
+15, suco de laranja, bebidas, 6.0
+16, água, bebidas, 2.0
+17, Ypioca ouro (dose), bebidas, 3.0
+18, caipirinha, bebidas, 8.0
