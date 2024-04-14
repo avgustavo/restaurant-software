@@ -16,26 +16,31 @@ Utilizamos o padrão de projeto Fachada para simplificar as interações entre a
 
 # Funcionalidades
 ## Realização de Pedidos
-Na mesa: Os clientes podem fazer pedidos diretamente de suas mesas.
-No balcão: Pedidos podem ser feitos diretamente no balcão do restaurante.
-Para entrega: Pedidos podem ser feitos para entrega no endereço especificado pelo cliente.
+* Na mesa;
+* No balcão;
+* Para entrega.
 
 ## Gerenciamento de Pedidos
-Editar Pedido: Cada pedido pode ser editado enquanto estiver aberto. Isso permite alterar itens, quantidades ou informações do pedido.
-Remover Pedido: Um pedido pode ser removido se ainda não tiver sido encerrado.
-Encerrar Pedido: Quando um pedido é concluído, ele pode ser encerrado. Uma vez encerrado, o pedido é removido da tela de pedidos abertos.
+* Editar Pedido: Cada pedido pode ser editado enquanto estiver aberto.
+* Remover Pedido: Um pedido pode ser removido se ainda não tiver sido encerrado.
+* Encerrar Pedido: Quando um pedido é concluído, ele pode ser encerrado. Uma vez encerrado, o pedido é removido da tela de pedidos abertos.
 
 ## Telas do Sistema
-Tela de Pedidos Abertos: Mostra todos os pedidos que estão atualmente ativos e não encerrados.
-Tela de Pedidos Encerrados: Acessível através do botão "Encerrar Caixa". Esta tela exibe todos os pedidos que foram encerrados durante o dia, mas que não podem mais ser editados.
+* Tela de Pedidos Abertos: Mostra todos os pedidos que estão atualmente ativos e não encerrados.
+* Tela de Pedidos Encerrados: Acessível através do botão "Encerrar Caixa". Esta tela exibe todos os pedidos que foram encerrados durante o dia, mas que não podem mais ser editados.
+* Tela de realização do pedido: Mostra o cardápio, os itens adicionados, tipo de entrega e valor total.
 
 ## Encerramento do Dia
-Encerrar Caixa: Ao final do dia, o operador pode encerrar o caixa. Isso faz com que a tela de pedidos encerrados seja exibida.
-Geração de Relatório: Quando o caixa é encerrado, um arquivo de texto é automaticamente gerado contendo todos os pedidos do dia.
+* Encerrar Caixa: Ao final do dia, o operador pode encerrar o caixa. Isso faz com que a tela de pedidos encerrados seja exibida.
+* Geração de Relatório: Quando o caixa é encerrado, um arquivo de texto é automaticamente gerado contendo todos os pedidos do dia.
 
 # Teste da Aplicação
 Para testar a aplicação, siga os passos abaixo:
 
 1) Navegue até a pasta "dist"
 2) Execute o arquivo Restaurante.jar
+3) usuario: fernando30
+4) senha: nota10
 
+# Observações finais
+Projeto realizado por mim, Lucas de Albuquerque, João Victor Tavares e Carlos Henrique Mapurunga
